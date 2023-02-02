@@ -3,7 +3,7 @@ const dele = 99;
 const chinku = 77;
 
 if( jim > dele && jim > chinku){
-    console.log('jim will get the cake');
+    console.log('jim will get  max the cake');
 }
 
 else if( dele > jim && dele > chinku){
