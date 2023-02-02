@@ -12,3 +12,14 @@ else if( dele > jim && dele > chinku){
 else{
     console.log('chinku will get the cake')
 }
+
+
+
+// ------------------------------------------------------------------------
+
+var a = 5; 
+var b = 8; 
+var c = 4; 
+var d = 6; 
+var highest = Math.max(a, b, c, d);
+console.log(highest)
