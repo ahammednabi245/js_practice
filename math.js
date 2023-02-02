@@ -21,8 +21,8 @@ else{
 
 
 
-const number = 2.594598;
-const fullNumber = Math.round(number);
+const numbers = 2.594598;
+const fullNumber = Math.round(numbers);
 
 // const fullNumber = Math.ceil(2.00001);
 // const fullNumber = Math.floor(456.259);
