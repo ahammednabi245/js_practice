@@ -26,6 +26,7 @@ const fullNumber = Math.round(numbers);
 
 // const fullNumber = Math.ceil(2.00001);
 // const fullNumber = Math.floor(456.259);
+// const fullNumber = Math.round(Math.random()*10);
 
 console.log(fullNumber);
 
