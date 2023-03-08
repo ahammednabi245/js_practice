@@ -148,9 +148,8 @@
 
 
 // const add =(para1 , para2) => para2 + para1
-
 // console.log(add);
-
+// ata vul ace
 
 
 // const b=6
@@ -158,5 +157,5 @@
 // console.log(b);
 
 
-const colors = {mango: 'green', grapes: 'black', organe: 'yellow'};
-console.log(colors[grapes])
+// const colors = {mango: 'green', grapes: 'black', organe: 'yellow'};
+// console.log(colors[grapes])
