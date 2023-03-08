@@ -97,3 +97,66 @@
 //     return x + y;
 //    }
 //    console.log(work(32);
+
+
+// const num = 10;
+// num();
+
+
+// let x = 10;
+// x = y + 5;
+// console.log(x);
+
+
+// const obj = { name: 'John' };
+// Object.keys(obj).forEach(prop => console.log(prop));
+
+
+// const name = 'John';
+// name.toUpperCase = () => 'JOHN';
+// console.log(name.toUpperCase());
+
+
+// const arr = [1, 2, 3];
+// arr.slice(-2, 0);
+// console.log(arr.slice);
+
+
+
+// const greeting = 'Hello, world!';
+
+
+// const sum = (p, q) => parseInt(p) + q;
+// const total = sum("h", 1);
+// console.log(total);
+
+
+// const marks= 60;
+// const resubmit = -5; 
+// console.log(!(marks > 0 || resubmit > 0));
+
+
+
+// const animals = ['cat', 'dog', 'rat'];
+// console.log(animals.includes('Cat'));
+
+
+// const unique = array => array.indexOf("21");
+// const array = [2,3,4,5,2];
+// console.log(unique(array));
+
+
+
+// const add =(para1 , para2) => para2 + para1
+
+// console.log(add);
+
+
+
+// const b=6
+// b=6
+// console.log(b);
+
+
+const colors = {mango: 'green', grapes: 'black', organe: 'yellow'};
+console.log(colors[grapes])
